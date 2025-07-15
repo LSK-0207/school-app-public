@@ -1,0 +1,28 @@
+1. Database Structure and Relationships (theory discussion)
+2. Installing prisma -- Creating Models -- running necessary prisma commands
+3. COnfiguring Docker and running command to have our postgreSQL running locally on Docker
+4. Prisma seed 
+5. Data Fetching -- Fetching Teachers
+6. Pagination Tutorial
+7. Fetching Data with query params on the URL
+8. Search Filter: Data fetching with search params on the URL
+9. Fetch: Students, Parents, Subjects, Class, Exams, Assignments, Exam Results, Events and Announcements
+10. Role based Auth
+11. Understanding role based auth in clerk
+12. Fetching data according to user role in Nextjs
+13. School App admin homepage
+14. Fetch School Announcements
+15. School app teacher homepage
+16. React-hook form with Zod
+17. Server Actions
+18. useActionState --  (useFormState) Tutorial
+19. Notifications using Toastify Library
+20. Deleting Table Items from server actions 
+21. Fetching "select" options from the Database
+22. School Classes: CRUD
+23. School Teachers: CRUD
+24. Image Upload with Nextjs Cloudinary Widget
+25. Creating teacher
+26. School dashboard single teacher page
+27. School dashboard single student page
+28. School Students: CRUD
